@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+   <class>org.jivesoftware.openfire.plugin.RegisterUser</class>
+   <name>Register User</name>
+   <description>Allows anonymous users to register their email.</description>
+   <author>Paulo Spinelli</author>
+   <version>1.0.0</version>
+   <date>15/01/2015</date>
+   <minServerVersion>3.9.0</minServerVersion>
+	<adminconsole>
+	</adminconsole>
+</plugin>
